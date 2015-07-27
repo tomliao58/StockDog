@@ -86,6 +86,16 @@
     <Content Include="app\views\templates\stock-table.html" />
     <Content Include="app\views\templates\watchlist-panel.html" />
     <Content Include="app\views\watchlist.html" />
+    <Content Include="bower_components\angular-google-chart\index.html" />
+    <Content Include="bower_components\angular-google-chart\ng-google-chart.js" />
+    <Content Include="bower_components\angular-google-chart\partials\annotation.html" />
+    <Content Include="bower_components\angular-google-chart\partials\annotation.js" />
+    <Content Include="bower_components\angular-google-chart\partials\fat.html" />
+    <Content Include="bower_components\angular-google-chart\partials\fat.js" />
+    <Content Include="bower_components\angular-google-chart\partials\generic.html" />
+    <Content Include="bower_components\angular-google-chart\partials\generic.js" />
+    <Content Include="bower_components\angular-google-chart\sample.js" />
+    <Content Include="bower_components\angular-google-chart\style.css" />
     <Content Include="bower_components\angular-motion\.gitignore" />
     <Content Include="bower_components\angular-motion\dist\angular-motion.css" />
     <Content Include="bower_components\angular-motion\dist\angular-motion.min.css" />
@@ -417,6 +427,10 @@
     <Content Include="bower_components\lodash\bower.json" />
     <Content Include="bower_components\lodash\LICENSE" />
     <Content Include="app\companies.json" />
+    <Content Include="bower_components\angular-google-chart\.bower.json" />
+    <Content Include="bower_components\angular-google-chart\bower.json" />
+    <Content Include="bower_components\angular-google-chart\package.json" />
+    <Content Include="bower_components\angular-google-chart\README.md" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
